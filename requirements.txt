@@ -77,8 +77,8 @@ itsdangerous==2.2.0
 jedi==0.20.0
 Jinja2==3.1.6
 jiter==0.13.0
-json5==0.10.0
 json_repair==0.25.3
+json5==0.10.0
 jsonpatch==1.33
 jsonpickle==4.1.1
 jsonpointer==3.1.1
@@ -146,6 +146,7 @@ parso==0.8.7
 pdfminer.six==20251230
 pdfplumber==0.11.9
 pillow==12.2.0
+pip==24.0
 platformdirs==4.9.6
 portalocker==2.7.0
 posthog==3.25.0
@@ -159,8 +160,8 @@ pyarrow==24.0.0
 pybase64==1.4.3
 pycparser==3.0
 pydantic==2.12.5
-pydantic-settings==2.10.1
 pydantic_core==2.41.5
+pydantic-settings==2.10.1
 pydeck==0.9.2
 Pygments==2.20.0
 PyJWT==2.12.1
@@ -190,6 +191,7 @@ rich==13.9.4
 rpds-py==0.30.0
 schema==0.7.8
 selenium==4.44.0
+setuptools==65.5.0
 shellingham==1.5.4
 six==1.17.0
 smmap==5.0.3
@@ -216,9 +218,9 @@ trio==0.33.0
 trio-websocket==0.12.2
 typer==0.23.1
 types-requests==2.33.0.20260518
+typing_extensions==4.15.0
 typing-inspect==0.9.0
 typing-inspection==0.4.2
-typing_extensions==4.15.0
 tzdata==2026.2
 uc-micro-py==2.0.0
 urllib3==2.7.0
