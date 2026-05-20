@@ -43,6 +43,3 @@ uvicorn backend.main:app --reload
 # Frontend
 streamlit run frontend/app.py
 ```
-
-## 📄 Sample Output
-See [report.md](report.md)
